@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+button.buenosDias{
+    background-color: orange;
+}
+
+button.buenasTardes{
+    background-color: yellow;
+}
+
+button.buenasNoches{
+    background-color: darkblue;
+}
+
+#image1{
+    display: none;
+}
+
+#image2{
+    display: none;    
+}
+
+#image3{
+    display: none;    
+}
